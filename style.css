@@ -44,7 +44,7 @@ html {
   justify-content: center;
   border-radius: 7px;
   position: relative;
-  animation: fadeIn ease-in .5s;
+  animation: fadeIn ease-in .2s;
 }
 @keyframes fadeIn{
   0% {
